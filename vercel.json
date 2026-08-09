@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/analyze.ts": {
+      "includeFiles": "3439.txt"
+    }
+  }
+}
