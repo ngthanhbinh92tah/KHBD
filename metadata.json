@@ -1,0 +1,6 @@
+{
+  "name": "AI Trợ Giảng - Kế hoạch bài dạy",
+  "description": "Lồng ghép năng lực AI vào kế hoạch bài dạy (Giáo án) theo công văn 3439",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
